@@ -2,8 +2,7 @@
 
 __author__ = 'goran'
 
-from settings import r
-import sys
+from pubsub.settings import r
 
 if __name__ == '__main__':
     name = input('Enter your username: ')
