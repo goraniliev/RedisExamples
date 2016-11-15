@@ -2,7 +2,7 @@
 
 __author__ = 'goran'
 
-from pubsub.settings import r
+from settings import r
 
 if __name__ == '__main__':
     channel = input('Enter the channel to which you want to subscribe: ')
